@@ -1,0 +1,2 @@
+Hey! 
+Basically what we are creating is all the features of ebay but a niche of digital items which can be traded easily, by having unique NFT for each item, that NFT item will be verified across the decentralised internet, basically we are creating a market place.
